@@ -1,0 +1,16 @@
+{
+  "name": "non-awesome-face",
+  "version": "0.1.0",
+  "description": "Exports a non-awesome face for logging into the terminal.",
+  "main": "index.js",
+  "keywords": [
+    "awesome",
+    "face",
+    "non-awesome"
+  ],
+  "author": "gburnett",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.1"
+  }
+}
